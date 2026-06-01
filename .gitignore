@@ -1,0 +1,41 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Editor and backup files
+*.bak
+*.tmp
+*~
+
+# Xilinx ISE generated files and directories
+_xmsgs/
+isim/
+iseconfig/
+xlnx_auto_0_xdb/
+*.bgn
+*.bit
+*.bld
+*.cmd_log
+*.drc
+*.html
+*.jou
+*.log
+*.map
+*.mrp
+*.ncd
+*.ngc
+*.ngd
+*.ngr
+*.pad
+*.par
+*.ptwx
+*.stx
+*.syr
+*.twr
+*.twx
+*.unroutes
+*.wdb
+*.xst
+
+# Simulator work libraries
+work/
